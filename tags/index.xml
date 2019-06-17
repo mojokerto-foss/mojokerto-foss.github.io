@@ -6,19 +6,9 @@
     <description>Recent content in Tags on Mojokerto FOSS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jun 2019 10:22:34 +0700</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Linux</title>
-      <link>/tags/linux/</link>
-      <pubDate>Tue, 11 Jun 2019 10:22:34 +0700</pubDate>
-      
-      <guid>/tags/linux/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
